@@ -1,4 +1,4 @@
-### MC-Start
+# MC-Start
 🌲 Lancer un serveur minecraft facilement avec nodejs. 
 
 Pour utiliser ce module vous pouvez copier les codes si dessous mai n'oublier pas de remplacer `directory` par le répértoire où se situe votre fichier de lancement

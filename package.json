@@ -1,0 +1,17 @@
+{
+  "name": "mc-start",
+  "version": "1.0.0",
+  "description": "Démarrer votre sereur minecraft depuis votre bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Rome",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "child_process": "^1.0.2",
+    "fs": "0.0.1-security",
+    "path": "^0.12.7"
+  }
+}

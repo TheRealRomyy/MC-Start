@@ -20,3 +20,5 @@ const start = await server.start();
    }
 </script>
 ```
+
+Made on 💻 with ❤️ by [Rome](https://discord.com/users/709481084286533773)

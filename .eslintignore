@@ -5,3 +5,6 @@ yarn*.log
 
 # Build
 build
+
+# Packages files
+path.ts

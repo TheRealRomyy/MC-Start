@@ -1,6 +1,7 @@
 # MC-Start
 🌲 Lancer un serveur minecraft facilement avec nodejs. 
 
+Pour télécharger ce module, entrez la commande `npm i @rome/mc-start`.
 Pour utiliser ce module vous pouvez copier les codes ci-dessous.
 
 **Comment se servir du module ?**

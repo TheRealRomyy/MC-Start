@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "target": "es2020",
+        "module": "commonjs",
+        "strict": true,
+        "esModuleInterop": true,
+        "skipLibCheck": true,
+        "forceConsistentCasingInFileNames": true,
+        "outDir": "./build",
+        "resolveJsonModule": true,
+        "declaration": true,
+        "strictNullChecks": false,
+    },
+    "include": [
+        "src/**/*", "index.ts"
+    ]
+}

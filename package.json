@@ -1,0 +1,25 @@
+{
+  "name": "mc-start",
+  "version": "2.0.0",
+  "description": "Démarrer votre sereur minecraft depuis votre bot discord",
+  "main": "./build/index.js",
+  "scripts": {
+    "build": "tsc",
+    "lint": "eslint --ext .ts .",
+    "start": "node ./build/index.js"
+  },
+  "author": "Rome",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {
+    "@types/node": "^16.4.13",
+    "@typescript-eslint/eslint-plugin": "^4.29.0",
+    "@typescript-eslint/parser": "^4.29.0",
+    "eslint": "^7.32.0",
+    "typescript": "^4.3.5"
+  }
+}
